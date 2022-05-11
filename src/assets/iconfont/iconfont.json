@@ -1,0 +1,23 @@
+{
+  "id": "3355536",
+  "name": "学校",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "29259262",
+      "name": "分享",
+      "font_class": "fenxiang-copy",
+      "unicode": "e86f",
+      "unicode_decimal": 59503
+    },
+    {
+      "icon_id": "2076191",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e86e",
+      "unicode_decimal": 59502
+    }
+  ]
+}
